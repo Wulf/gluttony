@@ -1,5 +1,4 @@
 # /gluttony/ API CONSUMPTION
----
 
 The gluttony module was created to easily consume a REST service using AJAX. It is a minimalist library; it doesn't rely on other dependencies and is simple in nature.
 
@@ -14,7 +13,7 @@ bower install gluttony --save
 **npm**
 
 ```
-npm install gluttony --save
+npm install gluttonyjs --save
 ```
 
 ### Known Issues
