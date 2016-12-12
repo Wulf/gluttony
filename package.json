@@ -1,0 +1,32 @@
+{
+  "name": "gluttony",
+  "version": "1.0.0",
+  "description": "Lightweight RESTful API consumption. Let the feast begin!~",
+  "main": "gluttony.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulf/gluttony.git"
+  },
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "consumer",
+    "consumption",
+    "minimalist",
+    "simple"
+  ],
+  "author": " <hk12@live.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wulf/gluttony/issues"
+  },
+  "homepage": "https://github.com/wulf/gluttony#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
