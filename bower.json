@@ -1,0 +1,26 @@
+{
+  "name": "gluttony",
+  "homepage": "https://github.com/wulf/gluttony",
+  "authors": [
+    "<hk12@live.ca>"
+  ],
+  "description": "Lightweight RESTful API consumption. Let the feast begin!~",
+  "main": "gluttony.js",
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "consumer",
+    "consumption",
+    "simple",
+    "minimalist"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
